@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**alessandrodeveloper2020/alessandrodeveloper2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, seja bem vindo!
 
-Here are some ideas to get you started:
+![Divertido ](https://www.selecoes.com.br/wp-content/uploads/2018/09/gargalhada-760x450.jpg "Divertido ")
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Sou uma pessoa carismática que ama tecnologia e inovação
+##### Minhas skills:
+
+1. NodeJS
+2. Javascript
+3. ReactJS
+4. Git
+5. Github 
+
+> Vamos nos conectar!
+## ⚡ Sobre mim 
+
+[![Blog Badge](https://img.shields.io/badge/Blog-alessandrodev.com-black)](http://alessandrodev.com/portfolio)
+
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCjNEmyHytF2-o0IufEDGz-A?view_as=subscriber)](https://www.youtube.com/channel/UCjNEmyHytF2-o0IufEDGz-A?view_as=subscriber)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alessandro-l-menezes-57906b71/)](https://www.linkedin.com/in/alessandro-l-menezes-57906b71/)
+
+
